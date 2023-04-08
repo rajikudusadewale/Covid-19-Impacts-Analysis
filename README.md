@@ -21,7 +21,7 @@ The data has the following attributes;
 - The population of the countries
 - GDP per capita of the countries before and during covid-19 outbreak
 
-![Click here for the Report and codes](https://github.com/rajikudusadewale/Covid-19-Impacts-Analysis/blob/main/Covid-19%20Impacts%20Analysis_Python.ipynb)
+![Click here for the Report and codes](https://github.com/rajikudusadewale/Covid-19-Impacts-Analysis/blob/main/Covid-19%20Impacts%20Analysis_Python.pdf)
 
 #### Conclusion
 The Covid-19 pandemic has affected almost all countries in the world, with varying degrees of severity. The total number of cases and deaths are correlated, suggesting that countries with higher cases are likely to have higher deaths as well. The stringency index of a country, which measures the strictness of Covid-19 control measures, is negatively correlated with the number of cases and deaths, suggesting that stricter measures have been effective in reducing the spread of the virus.The outbreak of covid-19 resulted in the highest number of covid-19 cases and deaths in the united states. One major reason behind this is the stringency index of the United States. It is comparatively low according to the population. All the countries GDP per capital were affected during the outbreak of covid-19.
